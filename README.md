@@ -1,2 +1,2 @@
 # ProjetoPosto
-Projeto de Posto de Gasolina em C
+Projeto de Posto de Gasolina em Python e C 
